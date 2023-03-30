@@ -7,7 +7,7 @@ public class SpiralPatternExample2
 public static void printPatten(int n)  
 {  
 //detrmines the boudar size of the array  
-int size = 2 * n - 1;     
+int size = 2 *  - 1;     
 {  
 //outer loop      
 for(int j = 1; j <= size; j++)  
